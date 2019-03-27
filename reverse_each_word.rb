@@ -10,6 +10,7 @@ array.each do |word|
   
 end
 
+new_string = new_array.join(" ")
 
 end
 
