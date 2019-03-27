@@ -7,7 +7,10 @@ new_array=[]
 array.each do |word|
   word.reverse
   new_array << word
+  
 end
+
+
 end
 
 
